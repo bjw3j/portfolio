@@ -1,24 +1,20 @@
 {
   "main": {
-    "name":"Student Name",
-    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "name":"Buddy White",
+    "description":"I am a modivated person who loves to help",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "student@uvawise.com",
+    "bio":"I am happy to help and always have a great time doing so.",
+    "contactmessage":"You can contact me at bjw3j@uvawise.edu",
+    "email": "bjw3j@uvawise.com",
     "address":{
-      "city":"Charlottesville",
+      "city":"wise",
       "state":"Virginia",
-      "zip": "22903"
+      "zip": "24293"
     },
-    "website": "<username>.github.io",
-    "resumedownload":"LINK TO YOUR RESUME HERE - CAN HOST IT ON GDRIVE",
+    "website": "bjw3j.github.io",
+    "resumedownload":"https://drive.google.com/file/d/1wpn1_osUz-6FFqiPSv37KxCpHDZTzL08/view?usp=sharing",
     "social":[
-      {
-        "name":"twitter", 
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
+ 
       {
         "name":"linkedin",
         "url":"https://www.linkedin.com/in/yoururl/",
@@ -33,29 +29,12 @@
   },
   "portfolio":{
     "projects": [
+
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
-      },
-      {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"My image recognition project",
+        "category":"Detects images fed into it by the user",
+        "image":"Code_pic.jpg",
+        "url":"https://drive.google.com/file/d/1wpn1_osUz-6FFqiPSv37KxCpHDZTzL08/view?usp=sharing"
       }
     ]
   }
