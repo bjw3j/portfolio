@@ -17,12 +17,12 @@
  
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/yoururl/",
+        "url":"linkedin.com/in/buddy-white-031782207",
         "className":"fa fa-linkedin"
       },
       {
         "name":"github",
-        "url":"http://github.com/githubusername",
+        "url":"https://github.com/bjw3j",
         "className":"fa fa-github"
       }
     ]
